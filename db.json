@@ -21,6 +21,28 @@
              "type": "SelfReport",
              "time": "2019-04-26"
        }
-    }
+    },
+    {
+      "id":2,
+       "accuracy": 20,
+       "locationMethod": "GPS",
+       "latitude": -20,
+       "longitude": -170,
+       "locationInfo": [
+           {
+               "cellid": 1,
+               "cell": "John Doe"
+           },
+           {
+               "cellid": 2,
+               "cell": "Don Joeh"
+           }
+       ],
+       "source": {
+             "id": 12341235,
+             "type": "SelfReport",
+             "time": "2019-04-26"
+       }
+    },    
   ]
 }
