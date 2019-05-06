@@ -1,8 +1,25 @@
 {
   "locations": [
     {
-      "id": 1,
-      "title": "hello"
+       "accuracy": 10,
+       "locationMethod": "GPS",
+       "latitude": -10,
+       "longitude": -180,
+       "locationInfo": [
+           {
+               "cellid": 1,
+               "cell": "John Doe"
+           },
+           {
+               "cellid": 2,
+               "cell": "Don Joeh"
+           }
+       ]
+       "source": {
+             "id": 12341234,
+             "type": "SelfReport",
+             "time": "2019-04-26"
+       }
     }
   ]
 }
