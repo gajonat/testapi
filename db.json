@@ -1,6 +1,7 @@
 {
   "locations": [
     {
+      "id":1,
        "accuracy": 10,
        "locationMethod": "GPS",
        "latitude": -10,
