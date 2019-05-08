@@ -20,6 +20,9 @@
              "id": 12341234,
              "type": "SelfReport",
              "time": "2019-04-26"
+       },
+       "statusInfo": {
+         "HomeCurfewStatus":"OK"
        }
     },
     {
