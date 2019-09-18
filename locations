@@ -1,19 +1,9 @@
 [
   {
      "accuracy": 10,
-     "locationMethod": "GPS",
+     "method": "GPS",
      "latitude": -10,
      "longitude": -180,
-     "locationInfo": [
-         {
-             "cellid": 1,
-             "cell": "John Doe"
-         },
-         {
-             "cellid": 2,
-             "cell": "Don Joeh"
-         }
-     ]
      "source": {
            "id": 12341234,
            "type": "SelfReport",
@@ -26,16 +16,7 @@
      "locationMethod": "GPS",
      "latitude": -20,
      "longitude": -170,
-     "locationInfo": [
-         {
-             "cellid": 1,
-             "cell": "John Doe"
-         },
-         {
-             "cellid": 2,
-             "cell": "Don Joeh"
-         }
-     ]
+    
      "source": {
            "id": 12341235,
            "type": "SelfReport",
