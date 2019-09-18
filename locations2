@@ -1,0 +1,24 @@
+[
+{
+accuracy: 10,
+method: "GPS",
+latitude: -10,
+longitude: -180,
+source: {
+id: 12341234,
+type: "SelfReport",
+time: "2019-04-26"
+}
+},
+{
+accuracy: 10,
+method: "GPS",
+latitude: -20,
+longitude: -170,
+source: {
+id: 12341235,
+type: "SelfReport",
+time: "2019-04-26"
+}
+}
+]
