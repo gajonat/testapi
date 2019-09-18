@@ -1,0 +1,14 @@
+[
+  {
+     "accuracy": 10,
+     "method": "GPS",
+     "latitude": -10,
+     "longitude": -180
+  },
+  {
+     "accuracy": 10,
+     "method": "GPS",
+     "latitude": -20,
+     "longitude": -170
+  }
+]
