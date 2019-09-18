@@ -13,7 +13,7 @@
   },
   {
      "accuracy": 10,
-     "locationMethod": "GPS",
+     "method": "GPS",
      "latitude": -20,
      "longitude": -170,
     
